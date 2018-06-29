@@ -1,2 +1,5 @@
-# Project-Euler-
-Solution for Project Euler problems.
+# Project Euler 
+My solutions for Project Euler problems.
+
+# Contributor
+Dhruva Mahajan.
